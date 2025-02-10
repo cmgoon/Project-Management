@@ -5,7 +5,7 @@ Dianne Park
 Shivam Patel    
 Srikar Manikonda  
 Madison Van
-
+Christy Goon
 Annie Wang
 
 Jade Carthans
