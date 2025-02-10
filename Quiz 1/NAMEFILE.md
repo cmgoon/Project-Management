@@ -9,7 +9,7 @@ Madison Van
 Annie Wang
 
 Jade Carthans
-Christy Goon
 
+Christy Goon
 
 Elisha Longfellow
