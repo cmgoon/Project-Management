@@ -11,12 +11,16 @@ Linker will operate as a mobile application available on both Android and iOS to
 ---
 ## 2. Project Vision
 ### 2.1 Overview of the Employment Landscape 
+
 Over the years, the introduction of technology has transformed traditional employment services and procedures, through the implementation of many different website developments for networking, job-hunting, and professional development. This redefines how individuals interact with the employment market, with hiring managers seeking optimal talent and job-seekers reevaluating their market. However, the automation of A.I. in the industry has left many approaches to interpersonal relationships afloat. 
-Now, industries and their job markets struggle to encapsulate the efficiency of the typical application process on both ends of the spectrum. With more applications flooding the market, it often enables hiring managers to automate their selection processes. These automation processes can be harmful in the process of hiring, as it allows exceptions to fall through the cracks of resume filtration. In addition, those looking to find new opportunities have a hard time applying towards active job applications, with little to no experience, biases in the A.I. resume filtration systems, or simply do not have enough time to apply. By streamlining the process with Linker, both the hiring managers and job-seekers will reap the benefits of an inclusive algorithm with matchmaking and faster processing times for an application process.
-### 2.2 Significance of Opportunity 
+Now, industries and their job markets struggle to encapsulate the efficiency of the typical application process on both ends of the spectrum. With more applications flooding the market, it often enables hiring managers to automate their selection processes. These automation processes can be harmful in the process of hiring, as it allows exceptions to fall through the cracks of resume filtration. In addition, those looking to find new opportunities have a hard time applying towards active job applications, with little to no experience, biases in the A.I. resume filtration systems, or simply do not have enough time to apply. By streamlining the process with Linker, both the hiring managers and job-seekers will reap the benefits of an inclusive algorithm with 
+matchmaking and faster processing times for an application process.
+
+### 2.2 Significance of Opportunity
 As more individuals strive to further their careers, the current  limitations of existing job platforms, especially those driven by AI filtration systems, have become increasingly apparent. These systems often introduce biases that unintentionally exclude capable candidates based on age, race, gender, or non-traditional backgrounds. 
 By prioritizing interpersonal connections and anonymous, skills-first profiles, Linker promotes equity and inclusivity in the hiring process. It addresses the growing demand for tools that not only streamline job searching, but also foster meaningful professional relationships. By including the familiar design patterns from widely used apps like Tinder, Linker also reduces the learning curve and increases user adoption of a new application. 
 In a market increasingly focused on diversity, fairness, and innovation, Linker will stand out as a competitor, quickly able to streamline the process and quality of candidates to suitable careers.
+
 ---
 ### 2.3 Overall Project Objectives
 - **Develop a Cross-Platform Mobile App with Anonymized Matching Capabilities**
@@ -33,14 +37,12 @@ It is important to understand the target demographic of Linker. In the current s
 - **Employers & Recruiters** - Organizations and hiring managers aiming to build more inclusive, diverse, and innovative teams by reducing unconscious bias and expanding beyond traditional candidate filters.
 - **Young Professionals & Students** - Tech-savvy users familiar with swipe-based apps, looking for a more intuitive, mobile-friendly way to connect with job opportunities.
 ### 3.2 Stakeholders 
-**Primary Contributors of Linker**
-**Job Seekers** - End users of the app who are looking for job opportunities. They are interested in fair access to job listings, anonymous application features, inclusive and user-friendly design, and relevant matches.
-**Employers & Recruiters** - Companies or individuals seeking to hire candidates through the app. They are interested  in efficient matching with qualified candidates, unbiased hiring process, and tools to build more diverse teams.
-**End-User Community** - Ongoing users who provide feedback and help shape future versions of Linker. They are interested in helping continue platform improvement, transparency, and continuous alignment with user needs.
-**Product Development Team** - Project managers, frontend/backend developers, UI/UX designers. They are involved in delivering a high-quality, scalable, and user-focused product while managing resources, timelines, and technical debt.
-**Open-Source Contributors** - External developers and designers who support app development via GitHub or other open platforms. They are involved in contributing to the  project, improving the app, and building community reputation.
-**Diversity & Inclusion Advocates / Organizations** - External consultants or non-profits supporting equitable employment practices. They are involved with ensuring the app aligns with DEI (Diversity, Equity, and Inclusion) standards and promotes fair hiring practices.
-**Platform Providers (Apple & Google)** - App distribution platforms (App Store & Google Play). This focuses more on ensuring the app complies with technical, design, and ethical guidelines for publication and monetization.
+It is important to understand the target demographic of Linker. In the current state Linker aims to provide services towards:.
+
+- **Job Seekers** - Individuals from diverse and non-traditional backgrounds seeking equitable access to career opportunities, especially those frustrated with biases in conventional hiring platforms.
+- **Employers & Recruiters** - Organizations and hiring managers aiming to build more inclusive, diverse, and innovative teams by reducing unconscious bias and expanding beyond traditional candidate filters.
+- **Young Professionals & Students** - Tech-savvy users familiar with swipe-based apps, looking for a more intuitive, mobile-friendly way to connect with job opportunities.
+
 ---
 ## 4. Open-Sourcing Strategy 
 ### 4.1 Leverage Open-Source Frameworks for Development
