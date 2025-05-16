@@ -80,10 +80,12 @@ For the backend development, Node.js is single-threaded, which might struggle un
 ![diagram-export-5-6-2025-1_49_59-AM](https://github.com/user-attachments/assets/aa23d21b-2a37-4566-9e3e-eb1b8477121d)
 
 Phase 1: Planning & Research (Weeks 1–2)
+
 - Define product goals & core values (inclusivity, bias-free)
 - Competitor analysis (LinkedIn, Tinder)
 - Create user personas (Job Seekers, Employers)
 - Finalize feature list (swipe match, anonymous profiles, etc.)
+
 Phase 2: Design & Prototyping (Weeks 3–4)
 - Build wireframes and user flows in Figma
 - Conduct feedback sessions with test users
@@ -119,9 +121,16 @@ Linker, as an open-source project, proves to go beyond the current established n
 ---
 ## 8. References and Citations 
 The Collaborative Interface Design Tool. Figma. (n.d.). https://www.figma.com/
+
 Gilbert, R. M. (n.d.). Inclusive Design for a Digital World. SpringerLink. https://link.springer.com/book/10.1007/978-1-4842-5016-7
+
 Introduction · REACT NATIVE. React Native RSS. (2025, April 14). https://reactnative.dev/docs/getting-started
-Milne, S. (n.d.). AI tools show biases in ranking job applicants’ names according to perceived race and gender. UW News. https://www.washington.edu/news/2024/10/31/ai-bias-resume-screening-race-gender/
+
+Milne, S. (n.d.). AI tools show biases in ranking job applicants’ names according to perceived race and gender. UW News. 
+https://www.washington.edu/news/2024/10/31/ai-bias-resume-screening-race-gender/
+
 The Open Source Firebase Alternative. Supabase. (n.d.). https://supabase.com/
+
 Open tech advocacy for a new era. Mozilla Foundation. (2024, November 15). https://www.mozillafoundation.org/en/blog/open-tech-advocacy-for-a-new-era/ 
+
 *ChatGPT was also referenced and aided in grammar checks and helped me develop the imaginary timelines and figureheads for workflows. 
