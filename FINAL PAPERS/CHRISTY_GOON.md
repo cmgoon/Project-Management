@@ -71,12 +71,14 @@ In future development, more factors to consider for the team involve platform op
 React Native is great for shared code but often struggles with platform-specific features (e.g., animations, camera access, and deep OS integrations), which affects the U.I/U.X aspect of the application. This means that over time, the need to implement native modules in Swift/Kotlin could lead to fragmentation. In addition, React Native relies on many third-party libraries, which may become outdated or unsupported. This could pose a debt overtime, as major updates to React Native (e.g., architectural changes like Fabric and TurboModules) often break compatibility, requiring extensive refactoring for the upkeep of the app.
 
 For the backend development, Node.js is single-threaded, which might struggle under high concurrency loads unless architected properly with worker threads or microservices. If Django is chosen, scaling beyond a certain threshold (especially real-time features) may require additional infrastructure (e.g., Celery workers, caching with Redis). In addition, database scaling limitations can occur within PostgreSQL. Overtime as data volume grows, indexing and read-heavy operations may require replication, sharding, or migration to a distributed database, which can cut into costs to transfer for newer versions, or a newer program all-together.
+
 ---
 ## 6.1 Timeline Projections
 ### 6.1 Mindmap + Workflow Mapping
 ![Mindmapping](https://github.com/user-attachments/assets/138830aa-c320-42d4-b14b-e0eb8196da72)
 ![Linker App Development Workflow](https://github.com/user-attachments/assets/49bc1a4c-ba86-4bef-9cd2-42c7ec939ec7)
 ![diagram-export-5-6-2025-1_49_59-AM](https://github.com/user-attachments/assets/aa23d21b-2a37-4566-9e3e-eb1b8477121d)
+
 Phase 1: Planning & Research (Weeks 1–2)
 - Define product goals & core values (inclusivity, bias-free)
 - Competitor analysis (LinkedIn, Tinder)
@@ -105,6 +107,7 @@ Phase 6: Testing & Launch Prep (Weeks 13–14)
 - Optimize for performance and platform-specific issues
 - Prepare launch materials (store listings, screenshots)
 - Launch on Android & iOS (Beta or limited release)
+
 ---
 ## 7. Conclusion 
 This process not only aims to aid students and individuals with unconventional backgrounds in career searching, but also gives advantageous benefits towards recruiters, streamlining interview processes by implementing an intuitive swipe-to-match foundation. This can keep both parties engaged in their job search, lessening the cognitive load that traditional screen usage and resume reading already take. 
@@ -112,6 +115,7 @@ This process not only aims to aid students and individuals with unconventional b
 Overall I believe that the project offers a well-defined, phased approach ensures steady progress, accountability, and adaptability throughout the 14-week timeline. Including a balanced tech stack that was planned considering technical debts such as maintenance and practical inclusion practices. Choices like React Native and Node.JS/PostgreSQL can help minimize this debt while supporting long-term scalability and maintainability. Figma and Discord enable real-time collaboration, while open-sourcing invites community engagement and iterative improvements.
 
 Linker, as an open-source project, proves to go beyond the current established norms of industry standards in the job application process. By foregoing the process of current A.I. resume readers that implicitly instill biases within the application process, Linker aims to mitigate the potential losses of great connections that can happen among people. With most of the focus being on open-sourcing for the project, there is no better community to help share their expertise from any field in diversifying the pool for creating an A.I. framework that channels biased factors in resumes outside of skill-matching preferences of recruiters and hiring managers. 
+
 ---
 ## 8. References and Citations 
 The Collaborative Interface Design Tool. Figma. (n.d.). https://www.figma.com/
