@@ -58,6 +58,7 @@ Use Discord as a centralized communication hub for the development team and cont
 
 **Github – Project Hosting Platform**
 Use Github to host the project enabling open collaboration, where developers can contribute code, report issues, and suggest features. This increases development speed, improves code quality through peer review, and aligns with Linker’s values of openness, accessibility, and inclusivity.
+
 ---
 ## 5. Technical Debts to Consider
 One of the technical debts that is to be considered in the development of an app like Linker would be the optimization of the technical stack used for frontend and backend development. For frontend development, there is an initial decision to make with what platform the developers would work on, such as a cross-platform development that includes both Android and Swift properties, like React Native, but this might create debt with handling platform specific optimization. On the other hand, the development team could start by choosing either Swift(iOS) or Kotlin (Android) for native development, but this could propose higher initial development costs, but less debt relating to performance issue maintenance.
