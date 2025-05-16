@@ -87,24 +87,33 @@ Phase 1: Planning & Research (Weeks 1–2)
 - Finalize feature list (swipe match, anonymous profiles, etc.)
 
 Phase 2: Design & Prototyping (Weeks 3–4)
+
 - Build wireframes and user flows in Figma
 - Conduct feedback sessions with test users
 - Create high-fidelity mockups
-- Define accessibility requirements (WCAG compliance)
+- Define accessibility requirements 
+
 Phase 3: Frontend & Backend Setup (Weeks 5–7)
+
 - Frontend: Set up Figma project, implement navigation, onboarding, and swiping UI
 - Backend: Configure Node.js and React Native , user auth, and anonymized profile handling
 - Integrate Figma design assets
+  
 Phase 4: MVP Development (Weeks 8–10)
+
 - Connect frontend to backend APIs
 - Implement match logic and profile reveal triggers
 - Basic chat or connection request feature
 - QA testing, bug fixes
+  
 Phase 5: Community & Collaboration (Weeks 11–12)
+
 - Launch GitHub repo (with contribution guide & issue templates)
 - Set up Discord server for contributors & testers
 - Begin collecting open-source feedback
+  
 Phase 6: Testing & Launch Prep (Weeks 13–14)
+
 - Conduct user testing (accessibility, usability)
 - Optimize for performance and platform-specific issues
 - Prepare launch materials (store listings, screenshots)
